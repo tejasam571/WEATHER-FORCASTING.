@@ -65,5 +65,12 @@ This project is open-source and available under the MIT License.
 For any inquiries or suggestions, please reach out via GitHub.
 
 ---
+the gui interface SCREENSHOTS :
+![Screenshot 2024-08-09 121107](https://github.com/user-attachments/assets/82af97c3-f009-4f19-8919-4faea3920972)
+the output interface page of GUI using python 
+
+
+![Screenshot 2024-08-09 121133](https://github.com/user-attachments/assets/52e0b504-4c12-40d8-af27-a3de5a0859ea)
+the result page 
 
 You can modify the above template based on your specific needs or preferences!
